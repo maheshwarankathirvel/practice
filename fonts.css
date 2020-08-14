@@ -1,0 +1,22 @@
+/* p{
+    line-height: 50px;
+    text-decoration:underline ;
+    text-align: center;
+    color: royalblue;
+    text-transform: uppercase;
+    font-style: italic;
+} */
+
+body{
+    background-image: url("https://ae01.alicdn.com/kf/HTB1kq61JXXXXXa_XFXXq6xXFXXXB/Normal-Grey-Brown-Cloudy-Studio-Vinyl-Photography-Backdrops-Computer-Printed-Backgrounds-Digtal-Cloth-background-for-spray.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background: #122763;
+    background: linear-gradient(to right  , #648880, #647583); */ 
+}
+p{
+    color:white;
+    font-size:50px ;
+}
+
+   

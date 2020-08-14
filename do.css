@@ -1,0 +1,20 @@
+img{
+    width: 250px;
+    margin: 30px 30px 30px 0;
+    float: right;
+}
+div{
+    border: 5px double black;
+    padding: 20px 40px 40px;
+    width:600px;
+}
+p{
+    display: inline;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-variant: small-caps;
+
+
+}
+body{
+    padding: 50px;
+}
